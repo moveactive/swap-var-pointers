@@ -1,0 +1,3 @@
+C:/Users/Dell/Desktop/Git Stuff/training/Pointers/cmake-build-debug/CMakeFiles/Pointers.dir
+C:/Users/Dell/Desktop/Git Stuff/training/Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dell/Desktop/Git Stuff/training/Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

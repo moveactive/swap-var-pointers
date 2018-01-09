@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dell/Desktop/Git Stuff/training/Pointers/boyan_andreev.h
+stdio.h
+-
+
+C:/Users/Dell/Desktop/Git Stuff/training/Pointers/main.c
+stdio.h
+-
+boyan_andreev.h
+C:/Users/Dell/Desktop/Git Stuff/training/Pointers/boyan_andreev.h
+swapVarPointers.h
+C:/Users/Dell/Desktop/Git Stuff/training/Pointers/swapVarPointers.h
+
+C:/Users/Dell/Desktop/Git Stuff/training/Pointers/swapVarPointers.h
+stdio.h
+-
+
